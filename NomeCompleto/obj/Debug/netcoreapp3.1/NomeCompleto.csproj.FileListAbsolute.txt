@@ -1,0 +1,13 @@
+C:\Users\Max Leonel\Desktop\NomeCompleto\NomeCompleto\bin\Debug\netcoreapp3.1\NomeCompleto.exe
+C:\Users\Max Leonel\Desktop\NomeCompleto\NomeCompleto\bin\Debug\netcoreapp3.1\NomeCompleto.deps.json
+C:\Users\Max Leonel\Desktop\NomeCompleto\NomeCompleto\bin\Debug\netcoreapp3.1\NomeCompleto.runtimeconfig.json
+C:\Users\Max Leonel\Desktop\NomeCompleto\NomeCompleto\bin\Debug\netcoreapp3.1\NomeCompleto.runtimeconfig.dev.json
+C:\Users\Max Leonel\Desktop\NomeCompleto\NomeCompleto\bin\Debug\netcoreapp3.1\NomeCompleto.dll
+C:\Users\Max Leonel\Desktop\NomeCompleto\NomeCompleto\bin\Debug\netcoreapp3.1\NomeCompleto.pdb
+C:\Users\Max Leonel\Desktop\NomeCompleto\NomeCompleto\obj\Debug\netcoreapp3.1\NomeCompleto.csprojAssemblyReference.cache
+C:\Users\Max Leonel\Desktop\NomeCompleto\NomeCompleto\obj\Debug\netcoreapp3.1\NomeCompleto.AssemblyInfoInputs.cache
+C:\Users\Max Leonel\Desktop\NomeCompleto\NomeCompleto\obj\Debug\netcoreapp3.1\NomeCompleto.AssemblyInfo.cs
+C:\Users\Max Leonel\Desktop\NomeCompleto\NomeCompleto\obj\Debug\netcoreapp3.1\NomeCompleto.csproj.CoreCompileInputs.cache
+C:\Users\Max Leonel\Desktop\NomeCompleto\NomeCompleto\obj\Debug\netcoreapp3.1\NomeCompleto.dll
+C:\Users\Max Leonel\Desktop\NomeCompleto\NomeCompleto\obj\Debug\netcoreapp3.1\NomeCompleto.pdb
+C:\Users\Max Leonel\Desktop\NomeCompleto\NomeCompleto\obj\Debug\netcoreapp3.1\NomeCompleto.genruntimeconfig.cache
